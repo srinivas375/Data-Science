@@ -1,4 +1,0 @@
-Hello, this is a new file.
-This is the second line.
-Appended line 1.
-Appended line 2.
