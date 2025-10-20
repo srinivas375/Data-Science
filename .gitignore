@@ -23,3 +23,6 @@ uv.lock
 *.pkl
 *.keras
 *.h5
+*.txt
+*.xml
+*.caffemodel
