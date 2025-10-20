@@ -1,0 +1,296 @@
+{
+    "1": {
+        "name": "Alice",
+        "age": 21,
+        "city": "Vijayawada",
+        "occupation": "Doctor",
+        "smoker": false
+    },
+    "2": {
+        "name": "Bob",
+        "age": 22,
+        "city": "Vizag",
+        "occupation": "Teacher",
+        "smoker": true
+    },
+    "3": {
+        "name": "Charlie",
+        "age": 23,
+        "city": "Delhi",
+        "occupation": "Student",
+        "smoker": false
+    },
+    "4": {
+        "name": "David",
+        "age": 24,
+        "city": "Mumbai",
+        "occupation": "Artist",
+        "smoker": true
+    },
+    "5": {
+        "name": "Eve",
+        "age": 25,
+        "city": "Chennai",
+        "occupation": "Lawyer",
+        "smoker": false
+    },
+    "6": {
+        "name": "Frank",
+        "age": 26,
+        "city": "Bangalore",
+        "occupation": "Scientist",
+        "smoker": true
+    },
+    "7": {
+        "name": "Grace",
+        "age": 27,
+        "city": "Kolkata",
+        "occupation": "Manager",
+        "smoker": false
+    },
+    "8": {
+        "name": "Hannah",
+        "age": 28,
+        "city": "Hyderabad",
+        "occupation": "Engineer",
+        "smoker": true
+    },
+    "9": {
+        "name": "Isaac",
+        "age": 29,
+        "city": "Vijayawada",
+        "occupation": "Doctor",
+        "smoker": false
+    },
+    "10": {
+        "name": "Jack",
+        "age": 30,
+        "city": "Vizag",
+        "occupation": "Teacher",
+        "smoker": true
+    },
+    "11": {
+        "name": "Kathy",
+        "age": 31,
+        "city": "Delhi",
+        "occupation": "Student",
+        "smoker": false
+    },
+    "12": {
+        "name": "Leo",
+        "age": 32,
+        "city": "Mumbai",
+        "occupation": "Artist",
+        "smoker": true
+    },
+    "13": {
+        "name": "Mona",
+        "age": 33,
+        "city": "Chennai",
+        "occupation": "Lawyer",
+        "smoker": false
+    },
+    "14": {
+        "name": "Nina",
+        "age": 34,
+        "city": "Bangalore",
+        "occupation": "Scientist",
+        "smoker": true
+    },
+    "15": {
+        "name": "Oscar",
+        "age": 35,
+        "city": "Kolkata",
+        "occupation": "Manager",
+        "smoker": false
+    },
+    "16": {
+        "name": "Paul",
+        "age": 36,
+        "city": "Hyderabad",
+        "occupation": "Engineer",
+        "smoker": true
+    },
+    "17": {
+        "name": "Quincy",
+        "age": 37,
+        "city": "Vijayawada",
+        "occupation": "Doctor",
+        "smoker": false
+    },
+    "18": {
+        "name": "Rita",
+        "age": 38,
+        "city": "Vizag",
+        "occupation": "Teacher",
+        "smoker": true
+    },
+    "19": {
+        "name": "Sam",
+        "age": 39,
+        "city": "Delhi",
+        "occupation": "Student",
+        "smoker": false
+    },
+    "20": {
+        "name": "Tina",
+        "age": 40,
+        "city": "Mumbai",
+        "occupation": "Artist",
+        "smoker": true
+    },
+    "21": {
+        "name": "Uma",
+        "age": 41,
+        "city": "Chennai",
+        "occupation": "Lawyer",
+        "smoker": false
+    },
+    "22": {
+        "name": "Victor",
+        "age": 42,
+        "city": "Bangalore",
+        "occupation": "Scientist",
+        "smoker": true
+    },
+    "23": {
+        "name": "Wendy",
+        "age": 43,
+        "city": "Kolkata",
+        "occupation": "Manager",
+        "smoker": false
+    },
+    "24": {
+        "name": "Xander",
+        "age": 44,
+        "city": "Hyderabad",
+        "occupation": "Engineer",
+        "smoker": true
+    },
+    "25": {
+        "name": "Yara",
+        "age": 20,
+        "city": "Vijayawada",
+        "occupation": "Doctor",
+        "smoker": false
+    },
+    "26": {
+        "name": "Zane",
+        "age": 21,
+        "city": "Vizag",
+        "occupation": "Teacher",
+        "smoker": true
+    },
+    "27": {
+        "name": "Aditya",
+        "age": 22,
+        "city": "Delhi",
+        "occupation": "Student",
+        "smoker": false
+    },
+    "28": {
+        "name": "Bhavana",
+        "age": 23,
+        "city": "Mumbai",
+        "occupation": "Artist",
+        "smoker": true
+    },
+    "29": {
+        "name": "Chaitanya",
+        "age": 24,
+        "city": "Chennai",
+        "occupation": "Lawyer",
+        "smoker": false
+    },
+    "30": {
+        "name": "Divya",
+        "age": 25,
+        "city": "Bangalore",
+        "occupation": "Scientist",
+        "smoker": true
+    },
+    "31": {
+        "name": "Eshwar",
+        "age": 26,
+        "city": "Kolkata",
+        "occupation": "Manager",
+        "smoker": false
+    },
+    "32": {
+        "name": "Fatima",
+        "age": 27,
+        "city": "Hyderabad",
+        "occupation": "Engineer",
+        "smoker": true
+    },
+    "33": {
+        "name": "Gopal",
+        "age": 28,
+        "city": "Vijayawada",
+        "occupation": "Doctor",
+        "smoker": false
+    },
+    "34": {
+        "name": "Harini",
+        "age": 29,
+        "city": "Vizag",
+        "occupation": "Teacher",
+        "smoker": true
+    },
+    "35": {
+        "name": "Irfan",
+        "age": 30,
+        "city": "Delhi",
+        "occupation": "Student",
+        "smoker": false
+    },
+    "36": {
+        "name": "Jaya",
+        "age": 31,
+        "city": "Mumbai",
+        "occupation": "Artist",
+        "smoker": true
+    },
+    "37": {
+        "name": "Krishna",
+        "age": 32,
+        "city": "Chennai",
+        "occupation": "Lawyer",
+        "smoker": false
+    },
+    "38": {
+        "name": "Lakshmi",
+        "age": 33,
+        "city": "Bangalore",
+        "occupation": "Scientist",
+        "smoker": true
+    },
+    "39": {
+        "name": "Manoj",
+        "age": 34,
+        "city": "Kolkata",
+        "occupation": "Manager",
+        "smoker": false
+    },
+    "40": {
+        "name": "Neha",
+        "age": 35,
+        "city": "Hyderabad",
+        "occupation": "Engineer",
+        "smoker": true
+    },
+    "43": {
+        "name": "satish",
+        "age": 24,
+        "city": "jrg",
+        "occupation": "employee",
+        "smoker": false
+    },
+    "42": {
+        "name": "vijaya",
+        "age": 43,
+        "city": "jrg",
+        "occupation": "house wife",
+        "smoker": false
+    }
+}
