@@ -33,6 +33,11 @@ Each folder contains:
 
 ## Installation
 
+First clone the Repostiory using:
+```bash
+  git clone https://github.com/srinivas375/Data-Science.git
+  ```
+Then navigate to `Data Science` folder
 ### Using `uv`
 
 1. Install `uv`:
@@ -119,7 +124,3 @@ Each folder contains:
   git clone https://github.com/srinivas375/Data-Science.git
   ```
 * Fork the repository to contribute improvements, add new notebooks, or enhance explanations.
-
-## License
-
-This repository is currently under no license. License information will be added later.
