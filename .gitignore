@@ -12,8 +12,6 @@ wheels/
 # extra files
 .python-version
 README.md
-pyproject.toml
-uv.lock
 *.npy
 *.csv
 *.xlsx
